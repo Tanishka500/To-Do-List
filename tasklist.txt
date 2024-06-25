@@ -1,0 +1,2 @@
+Solve Leetcode problems
+Make mini project using python
